@@ -3,7 +3,7 @@
 
 ### Key Projects 
 #### 1. Regression Modeling
-As the bike-sharing industry continues to thrive, reaching a global market value of around $2.8 billion in 2023, the Cook County Planning and Development Department in the Chicago metropolitan area has embarked on an exciting project. They've asked me to create a machine learning model that not only predicts daily bike rental numbers but also sheds light on what influences these figures—think factors like convenience, sustainability, and the health benefits of cycling. This project taps into the pulse of urban mobility trends and supports sustainable transport solutions. 
+This first example explores the bike-sharing industry which continues to thrive, reaching a global market value of around $2.8 billion in 2023. This project seeks to support Cook County Planning and Development Department in the Chicago metropolitan area in exploring the use of machine learning model that not only predicts daily bike rental numbers but also sheds light on what influences these figures—think factors like convenience, sustainability, and the health benefits of cycling. This project taps into the pulse of urban mobility trends and supports sustainable transport solutions. 
 
 To see how I tackled this challenging issue with data analytics and modeling, feel free to check out my code featured in this portfolio piece.
 
